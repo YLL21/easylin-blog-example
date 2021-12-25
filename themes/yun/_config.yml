@@ -132,6 +132,12 @@ albums:
 
 girls:
   enable: false
+waline:
+  enable: true
+  serverURL: https://yi-discuss.vercel.app/
+  # visitor: true
+  comment: false
+
 
 # Sidebar Avatar
 avatar:
